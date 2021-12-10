@@ -1,5 +1,5 @@
 # Intro to kubernetes
-This is a repo for resources for the technical demo held for NHN on September 23th 2021.
+This repo is a way to demo basic functionality for a kubernetes cluster. It showcases how volumes work, and how replica and loadbalancing works in a fun and easy way.
 
 Tools required:
 * minikube
